@@ -1,1 +1,1 @@
-# belajar_golang
+ini adalah dokumentasi belajar golang
